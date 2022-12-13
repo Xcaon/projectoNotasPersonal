@@ -1,0 +1,79 @@
+a {
+    text-decoration: none;
+}
+
+.contenedorCabecera {
+    padding: 20px;
+    background-color: rgb(100, 253, 235);
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.tituloListaNotas {
+    padding: 10px;
+    background-color: rgb(237, 237, 237);
+    min-height: 500px;
+    height: auto;
+    border-radius: 4px;
+}
+
+.titulos {
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+label {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+input[type=submit] {
+background-color: white;
+font-family: 'Times New Roman', Times, serif;
+border-radius: 4px;
+color: black;
+border-color: D3D3D3;
+border-width: 1px;
+font-size: 24px;
+box-shadow:  1px 1px #D3D3D3;
+margin-right: 10px;
+}
+
+.boton {
+    margin-top: 4px;
+    display: inline;
+    background-color: white;
+border-radius: 4px;
+color: black;
+border-color: D3D3D3;
+border-width: 1px;
+font-size: 24px;
+box-shadow:  1px 1px #D3D3D3;
+font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat-Regular'), url(http://themes.googleusercontent.com/static/fonts/montserrat/v4/zhcz-_WihjS) format('woff');
+} 
+
+.formulario {
+    display: inline;
+}
+
+.botonEstiloCrear {
+    display: block;
+    background-color: white;
+border-radius: 4px;
+color: black;
+border-color: D3D3D3;
+border-width: 1px;
+font-size: 24px;
+box-shadow:  1px 1px #D3D3D3;
+font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat-Regular'), url(http://themes.googleusercontent.com/static/fonts/montserrat/v4/zhcz-_WihjS) format('woff');
+}
+
+.cuerpoCrear {
+    padding: 50px;
+}
